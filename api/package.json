@@ -1,0 +1,15 @@
+ 
+{
+    "name": "twino-fe-homework",
+    "version": "1.0.0",
+    "description": "twino-fe-homework",
+    "author": "",
+    "private": true,
+    "scripts": {
+      "start": "node ./task/suitability-test-api.js"      
+    },        
+    "dependencies": {     
+      "express": "^4.17.1" 
+    }
+  }
+  
